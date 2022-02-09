@@ -1,6 +1,6 @@
 # airdrop-list
 list of participant qualified to receive MOFBOT token and MOF token
-you must mint MOFBOT token and MOF token from now till feb 15th to receive the airdrop
+you must mint MOFBOT token and MOF token from now till February 15th to receive the airdrop
 
 Token Name : MOF BOT token 
 Token Symbol : MOFBOT
